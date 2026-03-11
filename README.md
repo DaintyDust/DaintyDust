@@ -102,7 +102,7 @@
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=daintydust&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" height="165" />
   </picture>
   <picture>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=daintydust&theme=shadow_blue&hide_border=false" height="165" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=daintydust&theme=shadow_blue&hide_border=false" height="165" />
   </picture>
   <picture>
     <img src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=daintydust&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165" />
