@@ -109,14 +109,16 @@
   </picture>
 </div>
 
-<!-- ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=daintydust&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+ ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=daintydust&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
 
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=daintydust&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=daintydust&icon=0&color=0)](https://visitcount.itsvg.in) -->
+[![](https://visitcount.itsvg.in/api?id=daintydust&icon=0&color=0)](https://visitcount.itsvg.in)
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daintydust/daintydust/output/github-snake-dark.svg" />
