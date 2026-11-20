@@ -111,6 +111,7 @@
 
  ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=daintydust&theme=algolia&no-frame=true&no-bg=false&margin-w=4)
+![](https://komarev.com/ghpvc/?username=DaintyDust&color=blue&style=for-the-badge&abbreviated=true)
 
 <!--
 ### 🔝 Top Contributed Repo
